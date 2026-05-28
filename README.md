@@ -8,7 +8,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahannavo&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
 </p>
-
+<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahannavo/sahannavo/main/banner/banner.png" width="100%" alt="Sahan Weerasingha Profile Banner" />
+</p>
 <br />
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
