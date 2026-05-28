@@ -10,7 +10,7 @@
 </p>
 <br />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahannavo/sahannavo/main/banner/banner.png" width="100%" alt="Sahan Weerasingha Profile Banner" />
+  <img src="https://raw.githubusercontent.com/sahannavo/sahannavo/main/banner/banner.jpeg" width="100%" alt="Sahan Weerasingha Profile Banner" />
 </p>
 <br />
 
